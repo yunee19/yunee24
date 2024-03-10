@@ -28,5 +28,8 @@
    - 어떤 모드에서든 ESC 키를 눌러 프로그램을 종료할 수 있습니다.
 
 이러한 기능들로 인해 이 프로그램은 카메라 또는 RTSP 스트림에서 비디오를 표시하고 녹화하는 간단하고 유연한 도구가 됩니다.
+
+
+
 This code source is reference the skeleton code provided by ChatGPT 
 Have a good day ~~
