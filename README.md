@@ -1,8 +1,8 @@
 # yunee24
 This is a Video Recoder using OpenCV
 ***결과:
-![Image](IMAGE_URL)
-![Image](IMAGE_URL)
+![Image]([IMAGE_URL](https://github.com/yunee19/yunee24/blob/main/VideoRecoder.avi))
+[![Video Recorder](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
 
 이 프로그램은 다음과 같은 기능을 제공합니다:
 
