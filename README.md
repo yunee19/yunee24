@@ -1,6 +1,4 @@
-# yunee24
-This is a Video Recoder using OpenCV
-***결과:
+#This is a Video Recoder using OpenCV
 
 
 ![img](https://github.com/yunee19/yunee24/assets/133479803/264a4b41-5053-41d5-aa90-d23aa8ca2dc0)
